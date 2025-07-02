@@ -1,12 +1,12 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # agora está no lugar certo!
+  contents: write 
 
 jobs:
   build:
