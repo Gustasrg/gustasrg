@@ -24,4 +24,4 @@
   <img align="right" alt="Gusta-Gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/1102727354482176001/1389754022323294328/9z3acy.gif?ex=6865c4cb&is=6864734b&hm=c747ded3f232f85b2848dc8ba9b11caa821a3ebee9eaa54f67e9cb3115932dc4&">
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/gustasrg/gustasrg/output/dist/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gustasrg/gustasrg/output/snake.svg" alt="Snake animation" />
