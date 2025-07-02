@@ -3,7 +3,6 @@
 - 🖥 Em transição para a área Administrativa/Programação
 - 👾 Atualmente estou aprendendo JavaScript, HTML, e CSS.
 - 📫 E-MAIL Para Contato: gustavosrg79@hotmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://github.com/gustasrg">
